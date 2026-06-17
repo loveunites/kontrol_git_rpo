@@ -1,10 +1,16 @@
+import sys
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
+
 def show_project_title():
     print("Git practice project started")
 
 
 def show_student_info():
-    student_name = "Фамилия Имя"
-    group = "Название группы"
+    student_name = "ФАМИЛИЯ ИМЯ"
+    group = "НАЗВАНИЕ ГРУППЫ"
     print(f"Student: {student_name}")
     print(f"Group: {group}")
 
