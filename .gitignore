@@ -12,6 +12,11 @@ __pycache__/
 # Logs
 *.log
 
+# Temporary files and folders
+temp/
+tmp/
+*.tmp
+
 # Editor settings
 .vscode/
 .idea/
