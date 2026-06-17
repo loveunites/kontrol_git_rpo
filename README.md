@@ -1,5 +1,6 @@
 # Git Practice: Продан Илья
 
+изменение, сделанное через GitHub
 Учебный проект для закрепления Git, GitHub и VS Code: README.md, .gitignore,
 коммиты, ветки, merge, fetch, pull и разрешение конфликтов.
 
